@@ -1,20 +1,20 @@
-a = 33
-b = 200
+a = 25
+b = 100
 
 if b > a:
   print("b is greater than a")
 
 
-a = 33
-b = 33
+a = 20
+b = 20
 if b > a:
   print("b is greater than a")
 elif a == b:
   print("a and b are equal")
 
 
-a = 200
-b = 33
+a = 100
+b = 25
 if b > a:
   print("b is greater than a")
 elif a == b:
